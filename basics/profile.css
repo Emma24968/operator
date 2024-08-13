@@ -1,0 +1,74 @@
+    .hero{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 2.5rem;
+      max-width: 68.75rem;
+      margin: auto;
+    }
+
+    .h4{
+      margin-left: 20px ;
+    }
+
+    .heading{
+      display: flex;
+      align-items: baseline;
+      background: aqua;
+    }
+
+   .nav-link {
+    display: flex;
+    List-style: none;
+    margin-left: 400px;
+    padding: 10px;
+    font-size: 20px;
+ }
+
+    .wen {
+      margin-left: 50px;
+  }
+    .went {
+      margin-left: 70px;
+  }
+    .wentt {
+      margin-left: 90px;
+  }
+    .wenn {
+      margin-left: 90px;
+  }
+
+    .hero img{
+      height: 30%;
+      width: 50%;
+      margin-top: 50px;
+     }
+
+    .bio{
+      width: 1000px;
+      padding: 0.625rem;
+      border-radius : 6px;
+      box-shadow: 0px 2px 15px 2px;
+      background-color: aqua;
+   }
+
+    .bio-title{
+       margin-bottom: var(--bottom-margin);
+     }
+
+   .bio-text{
+    line-height: var(--line-height);
+    padding: 8.3rem 0;
+    }
+     .more-about{
+    background-color: rgb(236, 230, 230);
+    padding: 1rem 6rem;
+   }
+     .more-about h2{
+    margin-bottom: 10px;
+    text-align: center;
+     }
+    .more-about p{
+    line-height: 20px;
+    padding: 0.4rem;
+     }

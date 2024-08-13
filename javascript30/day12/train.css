@@ -1,0 +1,20 @@
+
+body{
+    /* background-color: aqua; */
+    background-image: url(train.jpg);
+    
+}
+
+button{
+    width: 70px;
+    height: 30px;
+    background-color: blue;
+    color: #fff;
+    border-radius: 50px;
+    
+}
+
+input[type=date]{
+    width: 10%;
+    height: 30px;
+}
